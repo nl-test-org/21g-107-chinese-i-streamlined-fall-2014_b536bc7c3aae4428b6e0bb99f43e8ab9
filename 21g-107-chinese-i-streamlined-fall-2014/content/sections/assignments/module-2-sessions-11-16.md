@@ -1,0 +1,36 @@
+---
+course_id: 21g-107-chinese-i-streamlined-fall-2014
+layout: course_section
+menu:
+  leftnav:
+    identifier: 86518d6db38bbe0ba1654b9635d787e1
+    name: Module 2 (Sessions 11-16)
+    parent: 836e4168284e954b99e50fa52e2747a5
+    weight: 60
+parent_title: Assignments
+title: Module 2 (Sessions 11-16)
+type: course
+uid: 86518d6db38bbe0ba1654b9635d787e1
+
+---
+
+Required Textbooks
+------------------
+
+\[LC\] = Wheatley, Julian. [_Learning Chinese: A Foundation Course in Mandarin_](/resources/res-21g-003-learning-chinese-a-foundation-course-in-mandarin-spring-2011) Yale University Press, 2014. ISBN: 9780300141184. (The Character Text / 漢語基礎教材 / 汉语基础教材).
+
+\[PC\] = The simiplified character version: Li, Duanduan. _A Primer for Advanced Beginners of Chinese - Simplified Character Version Vol. 1. (__Daxue Yuwen)._ Columbia University Press, 2004. ISBN: 9780231135672; or the traditional character version: Li, Duanduan. _A Primer for Advanced Beginners of Chinese Vol. 1._ (_Daxue Yuwen)_. Columbia University Press, 2002. ISBN: 9780231125550.
+
+Each assignment referenced in the table, if available, is provided in the [Study Materials]({{< baseurl >}}/sections/study-materials) section, except the audio files. Some files are not be provided here due to copyright restrictions.
+
+Special instructions for accomplishing your writing assignments:  
+Please write on every other line and leave 1.25-inch margins for each piece of paper you use if you do not use the calligraphy grid.
+
+| SES # | BEFORE CLASS | IN CLASS |
+| --- | --- | --- |
+| 11 |  {{< br >}}{{< br >}} *   Preview of \[PC\] Lesson 1:{{< br >}}    1.  Read "Grammatical Points" and "Sentence Patterns and Word Usage." on pp. 10–14.{{< br >}}    2.  Study the Vocabulary on pp. 2–4 (listen to the audio file). Learn the [Lesson 1 required characters]({{< baseurl >}}/sections/study-materials#Lessons_1-2) by heart (check Appendix III on pp. 249–79 for character stroke order). Make sure you know the other Lesson 1 characters by sight.{{< br >}}    3.  Read the text on p. 6 (listen to the audio file). Write on your book the answers to the questions in the exercises on pp. 6–7.{{< br >}}    4.  Read Dialogues 1–2 on pp. 8–9 (listen to the audio file), and study "Expressions Used in Class." on p. 20 (listen to the audio file).{{< br >}}*   Complete Lingt Speaking Assignment One before the class. {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} *   Quiz: Vocabulary of Lesson 1 characters.{{< br >}}*   \[PC\] Lesson 1 text.{{< br >}}*   \[PC\] Dialogue 1 and Dialogue 2. {{< br >}}{{< br >}}  |
+| 12 |  {{< br >}}{{< br >}} *   Writing assignments:{{< br >}}    1.  Handwrite a sentence for each of the entries in "Sentence Patterns and Word Usage." on pp. 13–14 in \[PC\] on a piece paper and hand them in in class.{{< br >}}    2.  Using the Lesson 1 text structure as a model, handwrite an article on "The Names of people" in \*Country\* (i. e. \*Country\* rén de xìngmíng) of no less than 120 characters. It can be any country of your own choice. {{< br >}}{{< br >}} If you want to use a word you know how to say but not how to write, try Appendices I, II on pp. 209–48, or use a dictionary. If you don't have a dictionary, type in Pinyin for the "Search Dictionary" section on the website of [Zhongwen Zipu (Learning Chinese Characters 中文字譜](http://zhongwen.com).) {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} *   Hand in your writing assignments.{{< br >}}*   \[PC\] Lesson 1 grammar.{{< br >}}*   \[PC\] Lesson 1 exercises on pp. 15–19. {{< br >}}{{< br >}}  |
+| 13 |  {{< br >}}{{< br >}} *   Preview of \[PC\] Lesson 2:{{< br >}}    1.  Read "Grammatical Points" and "Sentence Patterns and Word Usage." on pp. 30–32.{{< br >}}    2.  Study the Vocabulary on pp. 22–24 (listen to the audio file). Make sure you know the other [Lesson 2 characters]({{< baseurl >}}/sections/study-materials#Lessons_1-2) by sight.{{< br >}}    3.  Read the text on p. 26 (listen to the audio file). Write on your book the answers to the questions in the exercises on pp. 26–27.{{< br >}}    4.  Read Dialogues 1–2 on pp. 28–29 (listen to the audio file), and study "Expressions on Money." on p. 38 (listen to the audio file).{{< br >}}*   Complete Lingt Speaking Assignment Two before the class.{{< br >}}*   Study [\[PC\] Lesson 1 Required Characters]({{< baseurl >}}/sections/study-materials). {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} *   Quiz: Dictation of \[PC\] Lesson 1 required characters.{{< br >}}*   Vocabulary quiz on \[PC\] Lesson 2 characters.{{< br >}}*   \[PC\] Lesson 2 text.{{< br >}}*   \[PC\] Dialogues 1 and 2. {{< br >}}{{< br >}}  |
+| 14 |  {{< br >}}{{< br >}} *   Writing assignments:{{< br >}}    1.  Handwrite a sentence for each of the entries in "Sentence Patterns and Word Usage." on p. 32 in \[PC\] Lesson 2 on a piece of paper and hand them in class.{{< br >}}    2.  Using the \[PC\] Lesson 2 text structure as a model, handwrite an article on "The Family" in \*Country\* (i. e., \*Country\* rén de jiātíng) of no less than 120 characters. It can be any country of your own choice. {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} *   Hand in your writing assignments.{{< br >}}*   \[PC\] Lesson 2 grammar.{{< br >}}*   \[PC\] Lesson 2 exercise on pp. 33–37. {{< br >}}{{< br >}}  |
+| 15 |  {{< br >}}{{< br >}} *   Prepare a 2–3 minute talk for the following topics. Your presentation will be graded.{{< br >}}    1.  My name{{< br >}}        1.  Find out the origin of your family name and meaning of each character in your name (you may find this [website](http://www.yutopian.com/names) helpful.)  Or Check with your parents, and other online dictionaries. (In order for Chinese characters on a webpage to display properly, go to View of your browser, and choose Traditional Chinese Big5 (in this case) or Simplified Chinese GB for Character Set or Encoding.){{< br >}}        2.  Do you have more than one name? Why?{{< br >}}        3.  Any fun stories about your name, etc.{{< br >}}    2.  Group discussion:{{< br >}}        {{< br >}}        My Family{{< br >}}        {{< br >}}        1.  Do you have a big family (parents, siblings, and grandparents) living together?{{< br >}}        2.  Do your relatives live close by or far away?{{< br >}}        3.  What is the significance of family to you?{{< br >}}*   Study [Lesson 2 Required Characters]({{< baseurl >}}/sections/study-materials) {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} *   Quiz: Dictation of \[PC\] Lesson 2 required characters.{{< br >}}*   Talks: My Name.{{< br >}}*   Group Discussion: My Family.{{< br >}}*   Further discussion. {{< br >}}{{< br >}}  |
+| 16 |  {{< br >}}{{< br >}} *   Review \[PC\] Lessons 1–2. Make sure you can reproduce the required characters in \[PC\] Lessons 1–2 from memory and recognize the other characters by sight. Also, review the "Grammatical Points", "Sentences Patterns and Word Usage", and "Exercises."{{< br >}}*   [Test format of Test 3]({{< baseurl >}}/sections/study-materials#Test_3) will be announced. {{< br >}}{{< br >}}  | Test 3 (50 minutes; on \[PC\] Lessons 1–2).
